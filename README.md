@@ -11,7 +11,7 @@
 
 This repository showcases all the work completed during my **SureTrust Mechanical CAD Internship**.
 
-Throughout the internship, I developed practical experience in:
+As a Desing Intern, I developed practical experience in:
 
 - 📐 AutoCAD Drafting
 - ⚙️ SolidWorks Modelling

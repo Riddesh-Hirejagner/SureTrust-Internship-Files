@@ -2,7 +2,7 @@
 
 This folder contains all **SolidWorks models and mechanical design projects** completed during my **SureTrust Mechanical CAD Internship**.
 
-The projects cover everything from beginner part modelling exercises to advanced mechanical assemblies, sheet metal components, and surface modelling. These assignments helped me develop strong practical skills in 3D CAD modelling, design visualization, and engineering product development.
+This projects cover everything from beginner part modelling exercises to advanced mechanical assemblies, sheet metal components, and surface modelling. These assignments helped me develop strong practical skills in 3D CAD modelling, design visualization, and engineering product development.
 
 ---
 
